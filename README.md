@@ -8,7 +8,7 @@ A 100-line Matlab code for phonon transport in 1D atomic chain using the NEGF me
 
 ## Good references
 * J.-S. Wang et al., "Quantum thermal transport in nanostructures", Eur. Phys. J. B 62, 381-404 (2008).
-* S. Sadasivam, et al., The atomistic Green's function method for interfacial phonon transport. Annual Review of Heat Transfer, 17, 89-145, (2014).
+* S. Sadasivam, et al., "The atomistic Green's function method for interfacial phonon transport", Annual Review of Heat Transfer, 17, 89-145, (2014).
   
 ## File organizations
 
