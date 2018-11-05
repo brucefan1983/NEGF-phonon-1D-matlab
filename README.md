@@ -3,8 +3,12 @@ A 100-line Matlab code for phonon transport using the NEGF method in 1D atomic c
 
 ## Features
 
-* This is a simple but working code for calculating the phonon transmission in 1D homogeneous atomic chain.
-* This code is useful for teaching the NEGF method of phonon transport.
+* This is a simple but working code for calculating the phonon transmission in 1D homogeneous atomic chain using the NEGF (nonequilibrium Green's function) method. This method is also called the AGF (atomistic Green's function) method.
+* This code was developed based on the RGF-electron-matlab code: https://github.com/brucefan1983/RGF-electron-matlab. So you see that phonon transport is very similar to electron transport.
+
+## Good references
+* J.-S. Wang et al., "Quantum thermal transport in nanostructures", Eur. Phys. J. B 62, 381-404 (2008).
+* S. Sadasivam, et al., The atomistic Green's function method for interfacial phonon transport. Annual Review of Heat Transfer, 17, 89-145, (2014).
   
 ## File organizations
 
