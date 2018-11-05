@@ -13,7 +13,7 @@ A 100-line Matlab code for phonon transport in 1D atomic chain using the NEGF me
 ## File organizations
 
 * A script for testing:
-  * test_ballistic.m: calculates the transmission in 1D homogeneous atomic chain
+  * test_ballistic.m: calculates the phonon transmission in 1D homogeneous atomic chain
 
 * The testing script calls
   * the driver function "find_T" to do the calculations
@@ -34,7 +34,7 @@ A 100-line Matlab code for phonon transport in 1D atomic chain using the NEGF me
 
 ## Running the examples
 
-* Run the "test_ballistc.m" script to get the ballistic transmission in in 1D homogeneous atomic chain.
+* Run the "test_ballistc.m" script to get the ballistic transmission in 1D homogeneous atomic chain.
 
 ## Contact
 
